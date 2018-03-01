@@ -34,11 +34,11 @@ public class LoginTest
   public void dataentry() throws InterruptedException 
   {
 	  //username entering through textbox
-	  firefoxDriv.findElement(By.xpath("//*[@id='email']")).sendKeys("8686254232");
+	  firefoxDriv.findElement(By.xpath("//*[@id='email']")).sendKeys("username");
 	  logger.info("inserted username");
 	//password through textbox
 	  Thread.sleep(2000);
-	  firefoxDriv.findElement(By.xpath("//*[@id='pass']")).sendKeys("srinivasan@");
+	  firefoxDriv.findElement(By.xpath("//*[@id='pass']")).sendKeys("password");
 	  logger.info("inserted password");
   }
   @Test(priority=2)

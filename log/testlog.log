@@ -1,0 +1,264 @@
+2017-11-07 15:24:34,178 - LoginTest -INFO - url opened
+2017-11-07 15:24:34,239 - LoginTest -INFO - window maximized
+2017-11-07 15:24:34,375 - LoginTest -INFO - inserted username
+2017-11-07 15:24:34,460 - LoginTest -INFO - inserted password
+2017-11-07 15:24:42,140 - LoginTest -INFO - data submitted by clicking on login
+2017-11-07 15:24:45,658 - LoginTest -INFO -  clicked on logout
+2017-11-07 15:24:46,326 - LoginTest -INFO - Browser got quit
+2017-11-07 15:35:38,255 - LoginTest -INFO - url opened
+2017-11-07 15:35:38,310 - LoginTest -INFO - window maximized
+2017-11-07 15:35:38,478 - LoginTest -INFO - inserted username
+2017-11-07 15:35:38,522 - LoginTest -INFO - inserted password
+2017-11-07 15:35:42,616 - LoginTest -INFO - data submitted by clicking on login
+2017-11-07 18:25:26,699 - LoginTest -INFO - url opened
+2017-11-07 18:25:26,773 - LoginTest -INFO - window maximized
+2017-11-07 18:25:26,944 - LoginTest -INFO - inserted username
+2017-11-07 18:25:26,988 - LoginTest -INFO - inserted password
+2017-11-07 18:25:34,710 - LoginTest -INFO - data submitted by clicking on login
+2017-11-07 18:25:37,833 - LoginTest -INFO -  clicked on logout
+2017-11-07 18:25:38,423 - LoginTest -INFO - Browser got quit
+2017-11-13 12:27:29,592 - LoginTest -INFO - url opened
+2017-11-13 12:27:29,719 - LoginTest -INFO - window maximized
+2017-11-13 12:27:29,976 - LoginTest -INFO - inserted username
+2017-11-13 12:27:30,036 - LoginTest -INFO - inserted password
+2017-11-13 12:27:37,618 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 12:28:05,248 - LoginTest -INFO - Browser got quit
+2017-11-13 12:32:34,013 - LoginTest -INFO - url opened
+2017-11-13 12:32:34,062 - LoginTest -INFO - window maximized
+2017-11-13 12:32:34,212 - LoginTest -INFO - inserted username
+2017-11-13 12:32:34,263 - LoginTest -INFO - inserted password
+2017-11-13 12:32:40,084 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 12:32:40,628 - LoginTest -INFO - Clicked on compose button
+2017-11-13 12:32:40,806 - LoginTest -INFO - typed the message
+2017-11-13 12:32:41,255 - LoginTest -INFO - posted
+2017-11-13 12:40:50,423 - LoginTest -INFO - Browser got quit
+2017-11-13 12:44:36,455 - LoginTest -INFO - url opened
+2017-11-13 12:44:36,526 - LoginTest -INFO - window maximized
+2017-11-13 12:44:36,674 - LoginTest -INFO - inserted username
+2017-11-13 12:44:36,730 - LoginTest -INFO - inserted password
+2017-11-13 12:44:42,774 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 12:44:43,297 - LoginTest -INFO - Clicked on compose button
+2017-11-13 12:44:43,482 - LoginTest -INFO - typed the message
+2017-11-13 12:44:43,942 - LoginTest -INFO - posted
+2017-11-13 12:45:24,163 - LoginTest -INFO - Browser got quit
+2017-11-13 12:48:57,872 - LoginTest -INFO - url opened
+2017-11-13 12:48:57,931 - LoginTest -INFO - window maximized
+2017-11-13 12:48:58,055 - LoginTest -INFO - inserted username
+2017-11-13 12:48:58,102 - LoginTest -INFO - inserted password
+2017-11-13 12:49:03,965 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 12:49:04,725 - LoginTest -INFO - Clicked on compose button
+2017-11-13 12:49:05,123 - LoginTest -INFO - typed the message
+2017-11-13 12:49:29,861 - LoginTest -INFO - Browser got quit
+2017-11-13 12:50:13,997 - LoginTest -INFO - url opened
+2017-11-13 12:50:14,052 - LoginTest -INFO - window maximized
+2017-11-13 12:50:14,191 - LoginTest -INFO - inserted username
+2017-11-13 12:50:14,250 - LoginTest -INFO - inserted password
+2017-11-13 12:50:20,203 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 12:50:21,008 - LoginTest -INFO - Clicked on compose button
+2017-11-13 12:50:21,271 - LoginTest -INFO - typed the message
+2017-11-13 12:51:02,321 - LoginTest -INFO - Browser got quit
+2017-11-13 12:59:19,972 - LoginTest -INFO - url opened
+2017-11-13 12:59:20,020 - LoginTest -INFO - window maximized
+2017-11-13 12:59:20,141 - LoginTest -INFO - inserted username
+2017-11-13 12:59:20,184 - LoginTest -INFO - inserted password
+2017-11-13 12:59:26,565 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 12:59:27,096 - LoginTest -INFO - Clicked on compose button
+2017-11-13 12:59:27,357 - LoginTest -INFO - typed the message
+2017-11-13 13:00:10,453 - LoginTest -INFO - Browser got quit
+2017-11-13 13:03:21,472 - LoginTest -INFO - url opened
+2017-11-13 13:03:21,531 - LoginTest -INFO - window maximized
+2017-11-13 13:03:21,708 - LoginTest -INFO - inserted username
+2017-11-13 13:03:21,766 - LoginTest -INFO - inserted password
+2017-11-13 13:03:34,332 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 13:03:34,977 - LoginTest -INFO - Clicked on compose button
+2017-11-13 13:03:35,193 - LoginTest -INFO - typed the message
+2017-11-13 13:14:55,549 - LoginTest -INFO - Browser got quit
+2017-11-13 13:15:32,403 - LoginTest -INFO - url opened
+2017-11-13 13:15:32,444 - LoginTest -INFO - window maximized
+2017-11-13 13:15:32,580 - LoginTest -INFO - inserted username
+2017-11-13 13:15:32,630 - LoginTest -INFO - inserted password
+2017-11-13 13:15:39,091 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 13:15:39,476 - LoginTest -INFO - Clicked on compose button
+2017-11-13 13:15:39,844 - LoginTest -INFO - typed the message
+2017-11-13 13:18:57,445 - LoginTest -INFO - url opened
+2017-11-13 13:18:57,535 - LoginTest -INFO - window maximized
+2017-11-13 13:18:57,731 - LoginTest -INFO - inserted username
+2017-11-13 13:18:57,802 - LoginTest -INFO - inserted password
+2017-11-13 13:19:04,247 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 13:19:04,762 - LoginTest -INFO - Clicked on compose button
+2017-11-13 13:19:05,005 - LoginTest -INFO - typed the message
+2017-11-13 13:19:51,832 - LoginTest -INFO - Browser got quit
+2017-11-13 13:20:06,650 - LoginTest -INFO - url opened
+2017-11-13 13:20:06,710 - LoginTest -INFO - window maximized
+2017-11-13 13:20:06,850 - LoginTest -INFO - inserted username
+2017-11-13 13:20:06,906 - LoginTest -INFO - inserted password
+2017-11-13 13:20:23,893 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 13:20:24,428 - LoginTest -INFO - Clicked on compose button
+2017-11-13 13:20:24,595 - LoginTest -INFO - typed the message
+2017-11-13 13:20:32,589 - LoginTest -INFO - clicked on logout
+2017-11-13 13:20:33,390 - LoginTest -INFO - Browser got quit
+2017-11-13 13:23:04,133 - LoginTest -INFO - url opened
+2017-11-13 13:23:04,196 - LoginTest -INFO - window maximized
+2017-11-13 13:23:04,335 - LoginTest -INFO - inserted username
+2017-11-13 13:23:06,496 - LoginTest -INFO - inserted password
+2017-11-13 13:23:11,649 - LoginTest -INFO - data submitted by clicking on login
+2017-11-13 13:23:12,076 - LoginTest -INFO - Clicked on compose button
+2017-11-13 13:23:12,229 - LoginTest -INFO - typed the message
+2017-11-13 13:24:27,486 - LoginTest -INFO - Browser got quit
+2017-11-13 13:34:28,747 - LoginTest -INFO - Browser got quit
+2017-11-14 13:50:08,838 - LoginTest -INFO - url opened
+2017-11-14 13:50:08,887 - LoginTest -INFO - window maximized
+2017-11-14 13:50:09,118 - LoginTest -INFO - inserted username
+2017-11-14 13:50:11,182 - LoginTest -INFO - inserted password
+2017-11-14 13:50:19,434 - LoginTest -INFO - data submitted by clicking on login
+2017-11-14 13:50:20,188 - LoginTest -INFO - Clicked on compose button
+2017-11-14 13:50:20,511 - LoginTest -INFO - typed the message
+2017-11-14 13:50:40,129 - LoginTest -INFO - clicked on logout
+2017-11-14 13:50:40,888 - LoginTest -INFO - Browser got quit
+2018-01-02 11:50:25,015 - LoginTest -INFO - url opened
+2018-01-02 11:50:25,108 - LoginTest -INFO - window maximized
+2018-01-02 11:50:25,391 - LoginTest -INFO - inserted username
+2018-01-02 11:50:27,450 - LoginTest -INFO - inserted password
+2018-01-02 11:50:33,871 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 11:50:37,139 - LoginTest -INFO - clicked on logout
+2018-01-02 11:50:37,852 - LoginTest -INFO - Browser got quit
+2018-01-02 11:51:07,763 - LoginTest -INFO - url opened
+2018-01-02 11:51:07,816 - LoginTest -INFO - window maximized
+2018-01-02 11:51:08,025 - LoginTest -INFO - inserted username
+2018-01-02 11:51:10,094 - LoginTest -INFO - inserted password
+2018-01-02 11:51:16,535 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 11:51:19,242 - LoginTest -INFO - clicked on logout
+2018-01-02 11:51:55,908 - LoginTest -INFO - url opened
+2018-01-02 11:51:55,961 - LoginTest -INFO - window maximized
+2018-01-02 11:51:56,162 - LoginTest -INFO - inserted username
+2018-01-02 11:51:58,242 - LoginTest -INFO - inserted password
+2018-01-02 11:52:02,803 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 11:52:05,780 - LoginTest -INFO - clicked on logout
+2018-01-02 11:52:26,598 - LoginTest -INFO - url opened
+2018-01-02 11:52:26,637 - LoginTest -INFO - window maximized
+2018-01-02 11:52:26,791 - LoginTest -INFO - inserted username
+2018-01-02 11:52:28,990 - LoginTest -INFO - inserted password
+2018-01-02 11:52:33,496 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 11:53:06,162 - LoginTest -INFO - url opened
+2018-01-02 11:53:06,226 - LoginTest -INFO - window maximized
+2018-01-02 11:53:06,370 - LoginTest -INFO - inserted username
+2018-01-02 11:53:08,450 - LoginTest -INFO - inserted password
+2018-01-02 11:53:13,013 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 11:54:40,572 - LoginTest -INFO - url opened
+2018-01-02 11:54:40,615 - LoginTest -INFO - window maximized
+2018-01-02 11:54:40,744 - LoginTest -INFO - inserted username
+2018-01-02 11:54:42,826 - LoginTest -INFO - inserted password
+2018-01-02 11:54:48,438 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 11:55:11,399 - LoginTest -INFO - clicked on logout
+2018-01-02 11:55:12,255 - LoginTest -INFO - Browser got quit
+2018-01-02 11:57:43,267 - LoginTest -INFO - url opened
+2018-01-02 11:57:56,665 - LoginTest -INFO - url opened
+2018-01-02 11:57:56,668 - LoginTest -INFO - window maximized
+2018-01-02 11:57:56,792 - LoginTest -INFO - inserted username
+2018-01-02 11:57:58,865 - LoginTest -INFO - inserted password
+2018-01-02 11:58:04,405 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 11:58:04,798 - LoginTest -INFO - Clicked on compose button
+2018-01-02 11:58:04,984 - LoginTest -INFO - typed the message
+2018-01-02 12:00:18,064 - LoginTest -INFO - Browser got quit
+2018-01-02 12:00:30,992 - LoginTest -INFO - url opened
+2018-01-02 12:00:30,995 - LoginTest -INFO - window maximized
+2018-01-02 12:00:31,117 - LoginTest -INFO - inserted username
+2018-01-02 12:00:33,226 - LoginTest -INFO - inserted password
+2018-01-02 12:00:38,020 - LoginTest -INFO - data submitted by clicking on login
+2018-01-02 12:00:38,551 - LoginTest -INFO - Clicked on compose button
+2018-01-02 12:00:38,892 - LoginTest -INFO - typed the message
+2018-01-02 12:00:41,190 - LoginTest -INFO - posted
+2018-01-02 12:01:02,310 - LoginTest -INFO - Browser got quit
+2018-01-11 23:04:11,391 - LoginTest -INFO - url opened
+2018-01-11 23:04:11,397 - LoginTest -INFO - window maximized
+2018-01-11 23:04:11,504 - LoginTest -INFO - inserted username
+2018-01-11 23:04:13,587 - LoginTest -INFO - inserted password
+2018-01-11 23:04:28,275 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:04:28,650 - LoginTest -INFO - Clicked on compose button
+2018-01-11 23:04:28,891 - LoginTest -INFO - typed the message
+2018-01-11 23:04:31,247 - LoginTest -INFO - posted
+2018-01-11 23:04:32,380 - LoginTest -INFO - clicked on logout
+2018-01-11 23:04:33,391 - LoginTest -INFO - Browser got quit
+2018-01-11 23:11:41,423 - LoginTest -INFO - url opened
+2018-01-11 23:11:41,427 - LoginTest -INFO - window maximized
+2018-01-11 23:11:41,556 - LoginTest -INFO - inserted username
+2018-01-11 23:11:43,630 - LoginTest -INFO - inserted password
+2018-01-11 23:11:54,770 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:11:55,174 - LoginTest -INFO - Clicked on compose button
+2018-01-11 23:11:55,510 - LoginTest -INFO - typed the message
+2018-01-11 23:11:57,454 - LoginTest -INFO - posted
+2018-01-11 23:12:19,707 - LoginTest -INFO - Browser got quit
+2018-01-11 23:14:39,103 - LoginTest -INFO - url opened
+2018-01-11 23:14:39,108 - LoginTest -INFO - window maximized
+2018-01-11 23:14:39,246 - LoginTest -INFO - inserted username
+2018-01-11 23:14:41,287 - LoginTest -INFO - inserted password
+2018-01-11 23:14:44,947 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:18:05,069 - LoginTest -INFO - url opened
+2018-01-11 23:18:05,072 - LoginTest -INFO - window maximized
+2018-01-11 23:18:05,184 - LoginTest -INFO - inserted username
+2018-01-11 23:18:07,249 - LoginTest -INFO - inserted password
+2018-01-11 23:18:10,426 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:19:01,883 - LoginTest -INFO - url opened
+2018-01-11 23:19:01,886 - LoginTest -INFO - window maximized
+2018-01-11 23:19:01,985 - LoginTest -INFO - inserted username
+2018-01-11 23:19:04,080 - LoginTest -INFO - inserted password
+2018-01-11 23:19:07,084 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:25:23,931 - LoginTest -INFO - url opened
+2018-01-11 23:25:23,936 - LoginTest -INFO - window maximized
+2018-01-11 23:25:24,035 - LoginTest -INFO - inserted username
+2018-01-11 23:25:26,112 - LoginTest -INFO - inserted password
+2018-01-11 23:25:29,135 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:26:09,709 - LoginTest -INFO - Browser got quit
+2018-01-11 23:26:22,756 - LoginTest -INFO - url opened
+2018-01-11 23:26:22,759 - LoginTest -INFO - window maximized
+2018-01-11 23:26:22,875 - LoginTest -INFO - inserted username
+2018-01-11 23:26:24,951 - LoginTest -INFO - inserted password
+2018-01-11 23:26:27,183 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:27:08,558 - LoginTest -INFO - Browser got quit
+2018-01-11 23:27:10,997 - LoginTest -INFO - url opened
+2018-01-11 23:27:11,000 - LoginTest -INFO - window maximized
+2018-01-11 23:27:11,099 - LoginTest -INFO - inserted username
+2018-01-11 23:27:13,167 - LoginTest -INFO - inserted password
+2018-01-11 23:27:16,217 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:28:15,249 - LoginTest -INFO - url opened
+2018-01-11 23:28:15,253 - LoginTest -INFO - window maximized
+2018-01-11 23:28:15,356 - LoginTest -INFO - inserted username
+2018-01-11 23:28:17,405 - LoginTest -INFO - inserted password
+2018-01-11 23:28:19,872 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:29:00,545 - LoginTest -INFO - Browser got quit
+2018-01-11 23:29:11,660 - LoginTest -INFO - url opened
+2018-01-11 23:29:11,666 - LoginTest -INFO - window maximized
+2018-01-11 23:29:11,765 - LoginTest -INFO - inserted username
+2018-01-11 23:29:13,816 - LoginTest -INFO - inserted password
+2018-01-11 23:29:22,305 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:29:22,640 - LoginTest -INFO - Clicked on compose button
+2018-01-11 23:29:22,814 - LoginTest -INFO - typed the message
+2018-01-11 23:29:26,360 - LoginTest -INFO - posted
+2018-01-11 23:30:06,821 - LoginTest -INFO - Browser got quit
+2018-01-11 23:30:42,207 - LoginTest -INFO - url opened
+2018-01-11 23:30:42,210 - LoginTest -INFO - window maximized
+2018-01-11 23:30:42,304 - LoginTest -INFO - inserted username
+2018-01-11 23:30:44,361 - LoginTest -INFO - inserted password
+2018-01-11 23:30:51,813 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:30:52,149 - LoginTest -INFO - Clicked on compose button
+2018-01-11 23:30:52,293 - LoginTest -INFO - typed the message
+2018-01-11 23:30:55,490 - LoginTest -INFO - posted
+2018-01-11 23:31:25,406 - LoginTest -INFO - Browser got quit
+2018-01-11 23:31:47,941 - LoginTest -INFO - url opened
+2018-01-11 23:31:47,946 - LoginTest -INFO - window maximized
+2018-01-11 23:31:48,048 - LoginTest -INFO - inserted username
+2018-01-11 23:31:50,107 - LoginTest -INFO - inserted password
+2018-01-11 23:31:58,809 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:31:59,115 - LoginTest -INFO - Clicked on compose button
+2018-01-11 23:31:59,262 - LoginTest -INFO - typed the message
+2018-01-11 23:32:02,216 - LoginTest -INFO - posted
+2018-01-11 23:32:20,507 - LoginTest -INFO - Browser got quit
+2018-01-11 23:32:35,812 - LoginTest -INFO - url opened
+2018-01-11 23:32:35,815 - LoginTest -INFO - window maximized
+2018-01-11 23:32:35,911 - LoginTest -INFO - inserted username
+2018-01-11 23:32:37,973 - LoginTest -INFO - inserted password
+2018-01-11 23:32:43,970 - LoginTest -INFO - data submitted by clicking on login
+2018-01-11 23:32:44,305 - LoginTest -INFO - Clicked on compose button
+2018-01-11 23:32:44,475 - LoginTest -INFO - typed the message
+2018-01-11 23:32:47,451 - LoginTest -INFO - posted
+2018-01-11 23:33:18,655 - LoginTest -INFO - Browser got quit
